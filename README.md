@@ -1,5 +1,7 @@
 # Sorting-HTML-table
 
+
+Link to project: https://olszi11.github.io/Sorting-HTML-table/
 Logika działania:
 
 1. Definicje odpowiednich zmiennych:
